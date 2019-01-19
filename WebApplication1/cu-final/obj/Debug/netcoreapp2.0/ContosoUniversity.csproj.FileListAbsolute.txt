@@ -1,0 +1,33 @@
+C:\Users\Yekutiel\Source\Repos\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+C:\Users\Yekutiel\Source\Repos\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+C:\Users\Yekutiel\Source\Repos\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\Yekutiel\Source\Repos\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\Yekutiel\Source\Repos\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Users\Yekutiel\Source\Repos\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojAssemblyReference.cache
+C:\Users\Yekutiel\Source\Repos\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Yekutiel\Source\Repos\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\Yekutiel\Source\Repos\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\Yekutiel\Source\Repos\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\Yekutiel\Source\Repos\Docs\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Elad\Microsoft Sample\WebApplication1\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+C:\Elad\Microsoft Sample\WebApplication1\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+C:\Elad\Microsoft Sample\WebApplication1\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Elad\Microsoft Sample\WebApplication1\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Elad\Microsoft Sample\WebApplication1\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Elad\Microsoft Sample\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojAssemblyReference.cache
+C:\Elad\Microsoft Sample\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Elad\Microsoft Sample\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Elad\Microsoft Sample\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+C:\Elad\Microsoft Sample\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Elad\Microsoft Sample\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Users\Yekutiel\Source\Repos\FinalProject\WebApplication1\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+C:\Users\Yekutiel\Source\Repos\FinalProject\WebApplication1\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+C:\Users\Yekutiel\Source\Repos\FinalProject\WebApplication1\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\Yekutiel\Source\Repos\FinalProject\WebApplication1\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\Yekutiel\Source\Repos\FinalProject\WebApplication1\cu-final\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Users\Yekutiel\Source\Repos\FinalProject\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojAssemblyReference.cache
+C:\Users\Yekutiel\Source\Repos\FinalProject\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Yekutiel\Source\Repos\FinalProject\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\Yekutiel\Source\Repos\FinalProject\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\Yekutiel\Source\Repos\FinalProject\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\Yekutiel\Source\Repos\FinalProject\WebApplication1\cu-final\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
